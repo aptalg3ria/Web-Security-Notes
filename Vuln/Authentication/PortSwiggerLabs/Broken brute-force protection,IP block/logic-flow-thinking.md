@@ -22,7 +22,7 @@ I was already using:
 X-Forwarded-For: <IP>
 ```
 
-*(I cover what this header does and why it can bypass IP-based protections in more detail in my [previous writeup on username enumeration via response timing](./User-Enum-via-Response-Timing/Breakdown.md).)*
+*(I cover what this header does and why it can bypass IP-based protections in more detail in my [previous writeup on username enumeration via response timing](../User-Enum-via-Response-Timing/Breakdown.md).)*
 
 Since the block was temporary, I first thought: what if I just wait for 1 minute every time I get blocked and then continue?
 
