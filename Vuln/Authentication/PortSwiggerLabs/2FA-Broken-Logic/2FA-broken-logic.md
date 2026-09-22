@@ -45,9 +45,9 @@ Then I sent the modified request.
 
 > **[Screenshot — Modified `verify` parameter]**
 
-```text
+
 VerifyCarlos.png
-```
+
 
 The application accepted the request and returned the 2FA verification page normally.
 
@@ -106,9 +106,9 @@ The application continued accepting attempts and did not appear to apply an effe
 
 > **[Screenshot  — Multiple failed 2FA attempts without blocking]**
 
-```text
+
 no-rate-limit.png
-```
+
 
 This meant that brute-forcing the 4-digit code was possible.
 
@@ -145,9 +145,9 @@ The application accepted the code and I gained access to Carlos's account.
 
 > **[Screenshot  — Successful login / lab solved]**
 
-```text
+
 lab-solved.png
-```
+
 
 ---
 
